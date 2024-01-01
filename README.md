@@ -34,14 +34,10 @@
 
 ## Output:
 
-### Name:Sree  Hari K
-### Register Number:23000908
+### Name:Shyam kumar E
+### Register Number:23004557
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
 
-### Name:
-### Register Number:
 
-## Result: 
-### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
